@@ -1,4 +1,4 @@
-const { RichEmbed, Client, Util, Message } = require("discord.js");
+const { RichEmbed, Client, Util, Message } = require("discord.js")
 const fs = require("fs");
 const hastebins = require("hastebin-gen");
 
