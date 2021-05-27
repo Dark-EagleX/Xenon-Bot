@@ -1,4 +1,4 @@
-const { Client, RichEmbed } = require("discord.js");
+const { Client, RichEmbed } = require("discord.js")
 const { CommandHandler } = require("djs-commands");
 const client = new Client({ disableEveryone: true });
 var approx = require('approximate-number');
